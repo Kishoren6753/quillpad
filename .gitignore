@@ -27,3 +27,4 @@ buildSrc/build/
 
 # GitHub App credentials
 gha-creds-*.json
+.file_activity_report.json
